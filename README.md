@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Satya2646
+- 👋 Hi, I’m Satya Sundar
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning Master of Computer application in Ajay Binay Institute of Technology.
 - 💞️ I’m looking to collaborate on open source projects and also to land my first job.
